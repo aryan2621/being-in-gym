@@ -16,7 +16,7 @@ const FooterComponent = () => {
                         <ContactLink className='hover:underline'>Contact</ContactLink>
                         <Tooltip>
                             <TooltipTrigger asChild>
-                                <a href='https://github.com/aryan2621/beingingym' target='_blank' rel='noopener noreferrer' aria-label='GitHub'>
+                                <a href='https://github.com/aryan2621/being-in-gym' target='_blank' rel='noopener noreferrer' aria-label='GitHub'>
                                     <Github className='h-5 w-5' />
                                 </a>
                             </TooltipTrigger>

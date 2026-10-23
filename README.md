@@ -3,7 +3,7 @@
 Record workouts and runs on your phone, see your history, progress and goals on the web.
 
 - **Web:** https://beingingym-web.just-a-dev.workers.dev
-- **Android app:** [latest APK](https://github.com/aryan2621/beingingym/releases/latest/download/BeingInGym.apk)
+- **Android app:** [latest APK](https://github.com/aryan2621/being-in-gym/releases/latest/download/BeingInGym.apk)
 
 | Folder | What | Stack |
 | --- | --- | --- |

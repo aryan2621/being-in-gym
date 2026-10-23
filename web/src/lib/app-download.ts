@@ -1,4 +1,4 @@
-const REPO = 'aryan2621/beingingym';
+const REPO = 'aryan2621/being-in-gym';
 
 /** File name the GitHub release must attach the Android build as. */
 export const APK_ASSET_NAME = 'BeingInGym.apk';
